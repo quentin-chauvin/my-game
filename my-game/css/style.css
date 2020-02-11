@@ -1,0 +1,25 @@
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/description.css"); 
+
+
+ 
+ body {
+ 	font-size: 24px;
+ 	font-family: Trebuchet MS;
+ 	margin: 0px;
+ }
+
+ h1, h2, h3 {
+ 	font-family: Trebuchet MS; 
+ 	font-weight: bold; 
+ 	
+ }
+
+ a {
+ 	font-family: Trebuchet MS;
+ 	text-decoration: none;
+ }
